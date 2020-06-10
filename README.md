@@ -8,4 +8,7 @@ $ docker exec -it \<container-name> bash -p
 $ mysql -u root -proot
 
 ## stop
+$ docker-compose stop
+
+## delete
 $ docker-compose down
